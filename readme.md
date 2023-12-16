@@ -3,4 +3,4 @@
 - [StackOverflow](https://stackoverflow.com/users/4689206/hadi)
 
 # About
-Senior software engineer and team lead with 12 years of experience. Enhanced performance of 14 applications and websites using C Extension for Python, AsyncIO, Celery, Dapper, AsyncPG and Raw SQL, UltraJson, Multiprocessing, ElasticSearch, Redis, FastAPI.
+Senior full-stack developer (Backend Side 70% - Frontend Side 30%) and team lead with 12 years of experience. Participated in payment sections at many companies. Mentored 13 junior developers by streamlining coding structures and oversaw developers' performance. Worked with Python, Django, FastAPI, C#, and ASP.NET Core WebAPI for the backend side and Angular(7 years) and VueJS(2 years) experiences for the frontend side.
